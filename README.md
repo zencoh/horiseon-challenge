@@ -6,5 +6,5 @@ This is my first challenge for my bootcamp. I was tasked with refactoring this c
 ## Usage
 Learning to refactor code and pick up where someone else left off is a big part of becoming a full stack developer. Now since this is just a challenge, the skill learned was to refactor code and with practice I will only get better.
 
-![](assets/images/Horiseon%20screenshot%201.png)
-![](assets/images/Horiseon%20screenshot%202.png)
+![](Assets/images/Horiseon%20screenshot%201.png)
+![](Assets/images/Horiseon%20screenshot%202.png)
